@@ -1,0 +1,85 @@
+﻿  Reading Qt configuration (G:\Qt\Qt5.12.2\5.12.2\msvc2017_64\bin\qmake.exe)
+  Generate moc_predefs.h
+  Uic'ing AboutAuthor.ui...
+  Uic'ing chessboard.ui...
+  Rcc'ing chooseresource.qrc...
+  Moc'ing AboutAuthor.h...
+  Moc'ing ChessBoard.h...
+  Moc'ing ChessStep.h...
+  Moc'ing ChooseMainWindow.h...
+  Moc'ing NetworkGame.h...
+  Moc'ing SelectGameMode.h...
+  AboutAuthor.cpp
+  ChessBoard.cpp
+  ChessPieces.cpp
+  ChessStep.cpp
+  ChooseMainWindow.cpp
+  MachineGame.cpp
+  NetworkGame.cpp
+  SelectGameMode.cpp
+  main.cpp
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessstep.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChessStep.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChessPieces.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChessBoard.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\networkgame.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\choosemainwindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\networkgame.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 NetworkGame.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\machinegame.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 NetworkGame.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\machinegame.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 MachineGame.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 MachineGame.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(74): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(75): error C2143: 语法错误: 缺少“;”(在“case”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(76): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(77): error C2143: 语法错误: 缺少“;”(在“case”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(78): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(79): error C2143: 语法错误: 缺少“;”(在“case”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(80): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(81): error C2143: 语法错误: 缺少“;”(在“case”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(82): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(83): error C2143: 语法错误: 缺少“;”(在“case”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(84): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(85): error C2143: 语法错误: 缺少“;”(在“case”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(86): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.cpp(87): error C2146: 语法错误: 缺少“;”(在标识符“default”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChessBoard.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChooseMainWindow.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChooseMainWindow.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 NetworkGame.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 MachineGame.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\machinegame.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChooseMainWindow.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessstep.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChooseMainWindow.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\networkgame.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ChooseMainWindow.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(222): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(223): error C2146: 语法错误: 缺少“)”(在标识符“painter”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(223): error C2146: 语法错误: 缺少“;”(在标识符“painter”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(223): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(224): error C2146: 语法错误: 缺少“)”(在标识符“painter”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(224): error C2146: 语法错误: 缺少“;”(在标识符“painter”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(224): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(225): error C2146: 语法错误: 缺少“)”(在标识符“painter”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(225): error C2146: 语法错误: 缺少“;”(在标识符“painter”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(225): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(229): error C2143: 语法错误: 缺少“)”(在“for”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(229): error C2143: 语法错误: 缺少“;”(在“for”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chesspieces.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(627): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(628): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(628): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(659): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(660): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(660): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(666): error C2001: 常量中有换行符
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(667): error C2146: 语法错误: 缺少“)”(在标识符“m_pAbout”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessboard.cpp(667): error C2146: 语法错误: 缺少“;”(在标识符“m_pAbout”的前面)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\aboutauthor.cpp(8): error C2027: 使用了未定义类型“QIcon”
+  g:\qt\qt5.12.2\5.12.2\msvc2017_64\include\qtwidgets\qapplication.h(60): note: 参见“QIcon”的声明
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessstep.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 MachineGame.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\choosemainwindow.cpp(73): fatal error C1071: 在注释中遇到意外的文件结束
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\machinegame.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\chessstep.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+g:\workspaces\qt\0-qtgames\2019_01_qt5_chinesschess\chinesechess\networkgame.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
